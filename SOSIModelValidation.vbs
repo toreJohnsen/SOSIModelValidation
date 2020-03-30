@@ -6,7 +6,7 @@
 ' This script contains code from the default Project Browser template. 
 ' If you wish to modify this template, it is located in the Config\Script Templates 
 ' directory of your EA install path.    
-' 
+' #
 ' Script Name: SOSI model validation 
 ' Author: Section for standardization and technology development - Norwegian Mapping Authority
 
